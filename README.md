@@ -1,2 +1,2 @@
-# system-design
-Learning archive
+# System design
+Notes and learnings
