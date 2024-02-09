@@ -12,8 +12,9 @@ Overview
 Frontend
 - https://www.greatfrontend.com/system-design
 
-Backend
+Backend / System
 - https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation
+- https://roadmap.sh/system-design
 
 ## High level, generic approach (WIP)
 
